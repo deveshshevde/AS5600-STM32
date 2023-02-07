@@ -1,0 +1,9 @@
+../Core/Src/main.c:124:12:i2cWrite	40	static
+../Core/Src/main.c:131:12:i2cRead	40	static
+../Core/Src/main.c:140:10:as5600GetRawAngle	16	static
+../Core/Src/main.c:155:10:CurrentMicro	24	static
+../Core/Src/main.c:188:5:main	16	static
+../Core/Src/main.c:244:6:SystemClock_Config	88	static
+../Core/Src/main.c:291:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:325:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:355:6:Error_Handler	4	static,ignoring_inline_asm
